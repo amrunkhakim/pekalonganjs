@@ -1,5 +1,10 @@
 # 🌾 PekalonganJS
 
+![npm](https://img.shields.io/npm/v/pekalonganjs)
+![license](https://img.shields.io/npm/l/pekalonganjs)
+[![GitHub stars](https://img.shields.io/github/stars/amrunkhakim/pekalonganjs)](https://github.com/amrunkhakim/pekalonganjs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amrunkhakim/pekalonganjs)](https://github.com/amrunkhakim/pekalonganjs/network)
+
 > Framework Node.js nganggo logat Pekalongan sing lucu, enteng, lan api tenan.
 
 ## 🚀 Fitur

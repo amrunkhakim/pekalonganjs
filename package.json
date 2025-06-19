@@ -22,5 +22,13 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amrunkhakim/pekalonganjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amrunkhakim/pekalonganjs/issues"
+  },
+  "homepage": "https://github.com/amrunkhakim/pekalonganjs#readme"
 }

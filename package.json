@@ -1,0 +1,26 @@
+{
+  "name": "pekalonganjs",
+  "version": "1.1.1",
+  "description": "Framework Node.js nganggo logat Pekalongan",
+  "main": "src/index.js",
+  "bin": {
+    "pekalonganjs": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node contoh-proyek/index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [
+    "framework",
+    "node",
+    "jawa",
+    "pekalongan",
+    "fun",
+    "web"
+  ],
+  "author": "Amrunkhakim",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
